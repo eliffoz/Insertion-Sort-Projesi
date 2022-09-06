@@ -11,9 +11,9 @@ www.patika.dev
 
 n -> [22,27,16,2,18,6] , n-1 -> [2,27,16,22,18,6] , n-2 -> [2,6,16,22,18,27] , n-3 -> [2,6,16,22,18,27] , n-4 -> [2,6,16,18,22,27] , n-5 -> [2,6,16,18,22,27]
 
-2 - n=6, 1'den n'e kadar olan sayıların toplamı => n*(n+1)/2 => Big O Notation, O(n^2)=O(36)
+2 - n=6, 1'den n'e kadar olan sayıların toplamı = n*(n+1)/2 = Big O Notation, O(n^2)=O(36)
 
-3 - Worst Case(Sonda Olması) => O(n^2), Average Case => O(n^2), Best Case => O(n) Liste zaten sıralı ise hiçbir şeyin yeri değiştirilmezdi. Her eleman için bir kere işlem yapılırdı.
+3 - Worst Case(Sonda Olması) = O(n^2), Average Case = O(n^2), Best Case = O(n) Liste zaten sıralı ise hiçbir şeyin yeri değiştirilmezdi. Her eleman için bir kere işlem yapılırdı.
 
 4 - 18 sayısı küçükten büyüğe sıralamada ortada yer aldığı için average casede değerlendirilebilir.
 
